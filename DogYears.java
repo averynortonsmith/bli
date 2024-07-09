@@ -1,9 +1,7 @@
 import java.util.Scanner;
 
-public class DogYear
-{
-    public static void main(String[] args)
-    {
+public class DogYears {
+    public static void main(String[] args) {
         Scanner reader = new Scanner(System.in);
 
         // Fill in values for these variables
